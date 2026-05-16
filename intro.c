@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
- printf("Name: YOUR NAME\n");
- printf("USN: YOUR USN\n");
+ printf("Name:RITVIK N SHETTIGAR\n");
+ printf("USN: 1JS25CI067\n");
  printf("Program: Simple Addition of Two Numbers\n");
  printf("----------------------------------------\n");
  int a, b, sum;
